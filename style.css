@@ -234,7 +234,7 @@ a {
 }
 
 .item-1 {
-    background-image: url(banner-01.jpg);
+    background-image: url("banner-01.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -378,7 +378,7 @@ a {
 }
 
 .video {
-    background-image: url(video-bg.jpg);
+    background-image: url("video-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -692,7 +692,7 @@ img {
 }
 
 .contact {
-    background-image: url(contact-bg.jpg);
+    background-image: url("contact-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -977,3 +977,4 @@ footer p a {
   }
 
 }
+
